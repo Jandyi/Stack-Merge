@@ -118,4 +118,4 @@ The application will ask for the size and elements of each stack and then displa
 ## Project Information
 
 - **Status:** Completed
-- **Developed:** 2024
+- **Developed:** 2026
